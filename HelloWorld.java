@@ -5,5 +5,6 @@ public class HelloWorld{
     system.out.plintln("日本電子専門学校");
     system.out.plintln("日本電子専門学校");
     system.out.plintln("日本電子専門学校");
+    system.out.plintln("helloWorld");
   }
 }
